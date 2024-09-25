@@ -1,4 +1,5 @@
 github.com/FortAwesome/Font-Awesome v0.0.0-20240402185447-c0f460dca7f7/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
+github.com/ethanjose1/Hugo-Shared-ShortCodes v0.1.1/go.mod h1:hhxm5pUvOmRTAI+of9+lkCTm5vdiOt7rxU28LQMUU/I=
 github.com/google/docsy v0.10.0 h1:6tMDacPwAyRWNCfvsn/9qGOZDQ8b0aRzjRZvnZPY5dg=
 github.com/google/docsy v0.10.0/go.mod h1:c0nIAqmRTOuJ01F85U/wJPQtc3Zj9N58Kea9bOT2AJc=
 github.com/google/docsy v0.10.1-0.20240516225026-36746913371a h1:Fmx4SmmyWZf4q3rq9jhVWr6/h2MKEi4+61irjQO2ylI=
