@@ -218,3 +218,5 @@ module:
   imports:
     - path: github.com/google/docsy
       disable: false
+    - path: github.com/ethanjose1/Hugo-Shared-ShortCodes  # Add your shared module here
+      disable: false
